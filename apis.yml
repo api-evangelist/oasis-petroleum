@@ -1,0 +1,44 @@
+name: Oasis Petroleum
+description: |
+  Oasis Petroleum was an independent exploration and production (E&P) company
+  focused on unconventional crude oil and natural gas resources in the Williston
+  Basin (Bakken and Three Forks formations) of North Dakota and Montana.
+
+  Oasis Petroleum no longer exists as a standalone entity. On July 1, 2022,
+  Oasis Petroleum and Whiting Petroleum completed a merger of equals to form
+  Chord Energy Corporation (NASDAQ: CHRD), creating one of the largest pure-play
+  Williston Basin operators. The legacy oasispetroleum.com domain redirects to
+  chordenergy.com.
+
+  No public developer program, APIs, SDKs, OpenAPI specifications, or machine-
+  readable interfaces were ever published by Oasis Petroleum, and none exist
+  under the successor entity.
+image: ""
+url: https://api-evangelist.github.io/oasis-petroleum/apis.yml
+created: 2022-07-01
+modified: 2026-05-23
+status: defunct
+specificationVersion: "0.20"
+tags:
+  - Oil And Gas
+  - Exploration And Production
+  - Upstream
+  - Bakken
+  - Williston Basin
+  - Defunct
+  - Merged
+apis: []
+common:
+  - type: Successor
+    url: https://chordenergy.com
+  - type: SuccessorTicker
+    url: https://www.nasdaq.com/market-activity/stocks/chrd
+  - type: MergerAnnouncement
+    url: https://www.chordenergy.com/news-and-events/news/news-details/2022/Oasis-Petroleum-and-Whiting-Petroleum-Complete-Merger-of-Equals-to-Form-Chord-Energy-Corporation/default.aspx
+  - type: SECFilings
+    url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001486159
+  - type: Wikipedia
+    url: https://en.wikipedia.org/wiki/Oasis_Petroleum
+maintainers:
+  - FN: API Evangelist
+    email: info@apievangelist.com
