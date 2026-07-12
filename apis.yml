@@ -18,6 +18,8 @@ url: https://api-evangelist.github.io/oasis-petroleum/apis.yml
 created: 2022-07-01
 modified: 2026-05-23
 status: defunct
+deprecated: true
+deprecatedReason: "Oasis Petroleum is defunct. Retained for historical reference."
 specificationVersion: "0.20"
 tags:
   - Oil And Gas
