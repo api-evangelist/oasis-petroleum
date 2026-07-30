@@ -13,7 +13,18 @@ description: |
   No public developer program, APIs, SDKs, OpenAPI specifications, or machine-
   readable interfaces were ever published by Oasis Petroleum, and none exist
   under the successor entity.
-image: ""
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/oasis-petroleum.png
 url: https://api-evangelist.github.io/oasis-petroleum/apis.yml
 created: 2022-07-01
 modified: 2026-05-23
