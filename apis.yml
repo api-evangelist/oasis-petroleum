@@ -31,7 +31,7 @@ modified: 2026-05-23
 status: defunct
 deprecated: true
 deprecatedReason: "Oasis Petroleum is defunct. Retained for historical reference."
-specificationVersion: "0.20"
+specificationVersion: '0.23'
 tags:
   - Oil And Gas
   - Exploration And Production
