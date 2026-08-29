@@ -13,6 +13,17 @@ description: |
   No public developer program, APIs, SDKs, OpenAPI specifications, or machine-
   readable interfaces were ever published by Oasis Petroleum, and none exist
   under the successor entity.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
